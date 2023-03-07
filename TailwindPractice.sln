@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TailwindPractice", "TailwindPractice\TailwindPractice.csproj", "{31B4FCB6-4152-4E62-A096-83B78048DD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B4FCB6-4152-4E62-A096-83B78048DD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B4FCB6-4152-4E62-A096-83B78048DD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B4FCB6-4152-4E62-A096-83B78048DD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B4FCB6-4152-4E62-A096-83B78048DD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4D01F6-94BA-4A83-A8BF-417A4A25C75A}
+	EndGlobalSection
+EndGlobal
